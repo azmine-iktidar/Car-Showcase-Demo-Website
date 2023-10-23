@@ -9,3 +9,7 @@ export interface CustomButtonProps {
   rightIcon?: string;
   handleClick?: MouseEventHandler<HTMLButtonElement>;
 }
+export interface searchmanufacturerProps {
+  manufacturer: string;
+  setManufacturer: (manufacturer: string) => void;
+}
