@@ -69,4 +69,4 @@ This project is open-source and available for all to view and use as a learning 
 For any questions or assistance related to this project, please don't hesitate to reach out to [Iktidar](https://wa.me/qr/ILZPHY5XD5LYM1).
 
 Happy coding!
-](https://github.com/azmine-iktidar/Car-Showcase-Demo-Website.git)https://github.com/azmine-iktidar/Car-Showcase-Demo-Website.git
+
