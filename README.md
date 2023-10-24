@@ -16,7 +16,7 @@ Before you get started, make sure you have the following tools and software inst
 1. **Clone this repository:**
 
     ```bash
-    git clone https://github.com/your-username/car-showcase-preview.git
+    git clone https://github.com/azmine-iktidar/Car-Showcase-Demo-Website.git
     ```
 
 2. **Navigate to the project folder:**
