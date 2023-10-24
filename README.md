@@ -1,6 +1,6 @@
-# Car Showcase Preview Website
+# 🚙Car Showcase Preview Website🚗
 
-Welcome to the Car Showcase Preview Website project! This website is designed to showcase various car models with a responsive design and user interface. It's built using Next.js, React.js, and Tailwind CSS and can serve as a reference for web developers interested in modern web development practices.
+Welcome to the Car Showcase Preview Website project! This website is designed to showcase various car models with a responsive design and user interface. It's built using Next.js, React.js, SCSS, and Tailwind CSS and can serve as a reference for web developers interested in modern web development practices.
 
 ## Prerequisites
 
@@ -16,7 +16,7 @@ Before you get started, make sure you have the following tools and software inst
 1. **Clone this repository:**
 
     ```bash
-    git clone https://github.com/azmine-iktidar/Car-Showcase-Demo-Website.git
+    git clone https://github.com/your-username/car-showcase-preview.git
     ```
 
 2. **Navigate to the project folder:**
