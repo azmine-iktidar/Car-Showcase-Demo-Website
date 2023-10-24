@@ -4,9 +4,7 @@ import CustomButton from "./CustomButton";
 import Image from "next/image";
 
 const Hero = () => {
-  const handleScroll = () => {
-    console.log(true);
-  };
+  const handleScroll = () => {};
   return (
     <div className="hero">
       <div className="flex-1 pt-36 padding-x">
